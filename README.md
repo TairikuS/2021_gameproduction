@@ -1,8 +1,10 @@
-# 2021_gameproduction
-タイトル『SteamArena』  
+# SteamArena
 2年時に行ったゲーム制作のプロジェクトです。  
 robotを動かし360°に噴射するスチームを使って指示通りに敵キャラを吹き飛ばすゲームです。
-紹介動画(https://youtu.be/5C_TqXpRZGw)  
+
+#### プレイ動画
+
+[![プレイ動画](https://img.youtube.com/vi/5C_TqXpRZGw/0.jpg)](https://www.youtube.com/watch?v=5C_TqXpRZGw) 
   
 Unity2020.3.3f1で制作しました。  
 プレイにはコントローラー必須です。 
